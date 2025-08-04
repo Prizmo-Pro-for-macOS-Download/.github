@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/W4QgD2sP/1608731887-prizmo.png" width="350" alt="Prizmo Pro macOS Banner" />
+  <img src="https://i.ibb.co/W4QgD2sP/1608731887-prizmo.png" width="250" alt="Prizmo Pro macOS Banner" />
 </p>
 
 <h1 align="center">Prizmo Pro for macOS</h1>
